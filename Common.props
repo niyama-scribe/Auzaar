@@ -1,0 +1,10 @@
+<Project>
+	<PropertyGroup>
+		<Authors>Sachin Rao, aka Niyama-Scribe</Authors>
+		<PackageProjectUrl>https://github.com/niyama-scribe/Auzaar</PackageProjectUrl>
+		<Copyright>Copyright © Niyama-Scribe 2022</Copyright>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>dotnet;c#;tools;autofixture</PackageTags>
+	</PropertyGroup>
+</Project>
